@@ -2,26 +2,11 @@
 
 ## Overview
 
-This repository documents the design, deployment, expansion, and hardening of a simulated enterprise network infrastructure using Cisco Packet Tracer and Cisco IOS technologies.
+This repository contains multiple enterprise network security implementations and infrastructure hardening projects developed using Cisco Packet Tracer and Cisco IOS technologies.
 
-The project combines multiple enterprise network security milestones covering routing, authentication, monitoring, segmentation, VPN deployment, access control enforcement, infrastructure hardening, and security validation across a multi-branch environment.
+The projects focus on practical enterprise networking, routing, authentication, monitoring, VPN connectivity, access control, and layered infrastructure security within simulated multi-branch enterprise environments.
 
-The repository contains two complete enterprise network security implementations documented through separate technical reports.
-
----
-
-# Project Scope
-
-The infrastructure focuses on:
-- Enterprise Network Design
-- Dynamic Routing
-- Centralized Authentication
-- Secure Remote Administration
-- Infrastructure Monitoring
-- Access Control Enforcement
-- VPN Connectivity
-- Enterprise Hardening
-- Security Validation
+The repository includes two complete technical reports documenting different phases of enterprise network security deployment and expansion.
 
 ---
 
@@ -33,7 +18,7 @@ The infrastructure focuses on:
 - WAN Connectivity
 - VLAN-Based Architecture
 - Enterprise Subnetting
-- Multi-Branch Design
+- Multi-Branch Network Design
 - DMZ Segmentation
 
 ## Security Hardening
@@ -61,11 +46,9 @@ The infrastructure focuses on:
 
 # Included Reports
 
-## 1. Enterprise Network Security Foundation
+## 1. Complete Network Security Report
 
-Initial enterprise infrastructure deployment and security hardening implementation.
-
-### Covered Topics
+Enterprise infrastructure deployment and security hardening implementation covering:
 - OSPF Dynamic Routing
 - AAA Authentication
 - SYSLOG Monitoring
@@ -74,7 +57,3 @@ Initial enterprise infrastructure deployment and security hardening implementati
 - IPS Deployment
 - DMZ Segmentation
 - Infrastructure Verification
-
-### Report File
-```bash
-complete-network-security-report.pdf
